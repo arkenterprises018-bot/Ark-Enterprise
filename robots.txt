@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arkenterprises018-bot.github.io/Ark-Enterprise/sitemap.xml
